@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+Lets get you caught up, on the last episode of my life...
 
 - 🔭 I’m currently working on ... JavaScript
 - 🌱 I’m currently learning ... Node.Js
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... devmarshtroy@gmail.com
 - 😄 Pronouns: ...(He/Him)
 - ⚡ Fun fact: ... I'm Plat 2 in valorant
--->
+
