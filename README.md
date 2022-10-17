@@ -1,4 +1,4 @@
-### Hi there 👋 this is what im currently working on!
+### Hi there 👋
 
 
 Here are some ideas to get you started:
@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...Node.Js
 - 💬 Ask me about ... Anything and everything
 - 📫 How to reach me: ... devmarshtroy@gmail.com
-- 😄 Pronouns: ...(He/Him0
+- 😄 Pronouns: ...(He/Him)
 - ⚡ Fun fact: ... I'm Plat 2 in valorant
 -->
